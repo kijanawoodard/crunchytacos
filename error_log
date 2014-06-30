@@ -1,0 +1,283 @@
+[21-Mar-2011 16:40:39] Operation timed out after 5005 milliseconds with 0 bytes received
+[21-Mar-2011 16:40:39] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[21-Mar-2011 17:12:19] Operation timed out after 5004 milliseconds with 0 bytes received
+[21-Mar-2011 17:12:19] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[21-Mar-2011 17:12:24] connect() timed out!
+[21-Mar-2011 17:12:24] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[24-Mar-2011 14:00:13] Operation timed out after 5005 milliseconds with 0 bytes received
+[24-Mar-2011 14:00:13] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[24-Mar-2011 20:22:59] Operation timed out after 5005 milliseconds with 0 bytes received
+[24-Mar-2011 20:22:59] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[25-Mar-2011 15:44:34] Operation timed out after 5001 milliseconds with 0 bytes received
+[25-Mar-2011 15:44:34] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 16:10:40] Operation timed out after 5004 milliseconds with 0 bytes received
+[27-Mar-2011 16:10:40] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 16:10:45] Operation timed out after 5005 milliseconds with 0 bytes received
+[27-Mar-2011 16:10:45] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 16:49:17] connect() timed out!
+[27-Mar-2011 16:49:18] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 16:49:23] connect() timed out!
+[27-Mar-2011 16:49:23] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 18:13:04] Operation timed out after 5006 milliseconds with 0 bytes received
+[27-Mar-2011 18:13:04] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[27-Mar-2011 18:13:09] Operation timed out after 5005 milliseconds with 0 bytes received
+[27-Mar-2011 18:13:09] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[28-Mar-2011 15:11:54] connect() timed out!
+[28-Mar-2011 15:11:54] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 12:07:27] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 12:07:27] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 16:55:55] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 16:55:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 16:56:01] connect() timed out!
+[31-Mar-2011 16:56:01] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 17:22:14] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 17:22:14] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 17:22:19] connect() timed out!
+[31-Mar-2011 17:22:19] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 18:29:22] Operation timed out after 5001 milliseconds with 0 bytes received
+[31-Mar-2011 18:29:22] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 18:29:27] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 18:29:27] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 18:47:13] connect() timed out!
+[31-Mar-2011 18:47:13] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 18:47:18] Operation timed out after 5004 milliseconds with 0 bytes received
+[31-Mar-2011 18:47:18] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 18:47:53] Operation timed out after 5004 milliseconds with 0 bytes received
+[31-Mar-2011 18:47:53] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 20:28:25] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 20:28:25] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 21:48:18] Operation timed out after 5005 milliseconds with 0 bytes received
+[31-Mar-2011 21:48:18] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Mar-2011 21:48:24] Operation timed out after 5007 milliseconds with 0 bytes received
+[31-Mar-2011 21:48:24] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Apr-2011 11:31:24] Operation timed out after 5002 milliseconds with 0 bytes received
+[01-Apr-2011 11:31:24] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Apr-2011 14:30:31] Operation timed out after 5001 milliseconds with 0 bytes received
+[01-Apr-2011 14:30:31] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Apr-2011 15:24:56] Operation timed out after 5001 milliseconds with 0 bytes received
+[01-Apr-2011 15:24:56] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Apr-2011 15:24:57] connect() timed out!
+[01-Apr-2011 15:24:57] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Apr-2011 15:39:38] Operation timed out after 5001 milliseconds with 0 bytes received
+[01-Apr-2011 15:39:38] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[02-Apr-2011 16:40:30] Operation timed out after 5001 milliseconds with 0 bytes received
+[02-Apr-2011 16:40:30] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[02-Apr-2011 16:40:35] Operation timed out after 5001 milliseconds with 0 bytes received
+[02-Apr-2011 16:40:35] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[05-Apr-2011 18:54:02] Operation timed out after 5004 milliseconds with 0 bytes received
+[05-Apr-2011 18:54:02] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[05-Apr-2011 20:36:29] connect() timed out!
+[05-Apr-2011 20:36:29] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[06-Apr-2011 12:46:20] Operation timed out after 5003 milliseconds with 0 bytes received
+[06-Apr-2011 12:46:20] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[06-Apr-2011 12:46:25] Operation timed out after 5005 milliseconds with 0 bytes received
+[06-Apr-2011 12:46:25] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 12:56:21] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 12:56:21] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 15:13:21] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 15:13:21] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 15:13:27] connect() timed out!
+[11-Apr-2011 15:13:27] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 16:26:00] connect() timed out!
+[11-Apr-2011 16:26:00] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 16:26:06] Operation timed out after 5010 milliseconds with 0 bytes received
+[11-Apr-2011 16:26:06] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 17:53:48] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 17:53:48] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 17:53:53] connect() timed out!
+[11-Apr-2011 17:53:53] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 18:53:40] Operation timed out after 5004 milliseconds with 0 bytes received
+[11-Apr-2011 18:53:40] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 18:53:45] connect() timed out!
+[11-Apr-2011 18:53:45] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 19:00:22] connect() timed out!
+[11-Apr-2011 19:00:22] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 19:00:27] connect() timed out!
+[11-Apr-2011 19:00:27] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 19:24:37] Operation timed out after 5004 milliseconds with 0 bytes received
+[11-Apr-2011 19:24:37] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 19:24:42] connect() timed out!
+[11-Apr-2011 19:24:42] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 20:14:31] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 20:14:31] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 20:14:36] connect() timed out!
+[11-Apr-2011 20:14:36] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 20:28:50] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 20:28:50] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 20:28:55] connect() timed out!
+[11-Apr-2011 20:28:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 21:07:30] connect() timed out!
+[11-Apr-2011 21:07:30] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Apr-2011 21:07:36] Operation timed out after 5005 milliseconds with 0 bytes received
+[11-Apr-2011 21:07:36] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[12-Apr-2011 15:07:46] Operation timed out after 5005 milliseconds with 0 bytes received
+[12-Apr-2011 15:07:46] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[12-Apr-2011 17:51:26] Operation timed out after 5000 milliseconds with 0 bytes received
+[12-Apr-2011 17:51:26] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 12:06:54] Operation timed out after 5005 milliseconds with 0 bytes received
+[14-Apr-2011 12:06:54] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 12:06:59] Operation timed out after 5005 milliseconds with 0 bytes received
+[14-Apr-2011 12:06:59] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:29] connect() timed out!
+[14-Apr-2011 15:38:29] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:29] Operation timed out after 5003 milliseconds with 0 bytes received
+[14-Apr-2011 15:38:29] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:44] Operation timed out after 5005 milliseconds with 0 bytes received
+[14-Apr-2011 15:38:44] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:44] Operation timed out after 5003 milliseconds with 0 bytes received
+[14-Apr-2011 15:38:44] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:52] Operation timed out after 5005 milliseconds with 0 bytes received
+[14-Apr-2011 15:38:52] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Apr-2011 15:38:52] Operation timed out after 5001 milliseconds with 0 bytes received
+[14-Apr-2011 15:38:52] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-Apr-2011 16:19:01] Operation timed out after 5005 milliseconds with 0 bytes received
+[16-Apr-2011 16:19:01] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-Apr-2011 16:19:07] Operation timed out after 5003 milliseconds with 0 bytes received
+[16-Apr-2011 16:19:07] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-Apr-2011 16:29:10] Operation timed out after 5005 milliseconds with 0 bytes received
+[16-Apr-2011 16:29:10] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-Apr-2011 16:29:16] Operation timed out after 5004 milliseconds with 0 bytes received
+[16-Apr-2011 16:29:16] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 06:57:59] connect() timed out!
+[17-Apr-2011 06:57:59] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 06:58:04] connect() timed out!
+[17-Apr-2011 06:58:04] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 07:24:50] connect() timed out!
+[17-Apr-2011 07:24:50] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 07:24:55] connect() timed out!
+[17-Apr-2011 07:24:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 08:02:37] connect() timed out!
+[17-Apr-2011 08:02:37] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 08:02:43] connect() timed out!
+[17-Apr-2011 08:02:43] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 09:18:51] Operation timed out after 5005 milliseconds with 0 bytes received
+[17-Apr-2011 09:18:51] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 09:19:01] connect() timed out!
+[17-Apr-2011 09:19:01] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 16:11:29] connect() timed out!
+[17-Apr-2011 16:11:29] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[17-Apr-2011 16:11:34] connect() timed out!
+[17-Apr-2011 16:11:34] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[20-Apr-2011 05:47:03] connect() timed out!
+[20-Apr-2011 05:47:03] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[04-May-2011 13:53:35] Connection time-out
+[04-May-2011 13:53:35] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[05-May-2011 00:24:39] Operation timed out after 5003 milliseconds with 0 bytes received
+[05-May-2011 00:24:39] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[05-May-2011 00:24:44] Operation timed out after 5002 milliseconds with 0 bytes received
+[05-May-2011 00:24:44] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-May-2011 02:15:50] Operation timed out after 5000 milliseconds with 0 bytes received
+[16-May-2011 02:15:50] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-May-2011 21:20:50] connect() timed out!
+[22-May-2011 21:20:50] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-May-2011 21:20:56] Operation timed out after 5001 milliseconds with 0 bytes received
+[22-May-2011 21:20:56] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[04-Jun-2011 13:37:05] connect() timed out!
+[04-Jun-2011 13:37:05] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[04-Jun-2011 13:37:11] Operation timed out after 5004 milliseconds with 0 bytes received
+[04-Jun-2011 13:37:11] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[15-Jun-2011 15:10:09] Operation timed out after 5005 milliseconds with 0 bytes received
+[15-Jun-2011 15:10:09] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[15-Jun-2011 15:32:11] Operation timed out after 5008 milliseconds with 2495 out of 7606 bytes received
+[15-Jun-2011 15:32:11] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[18-Jun-2011 02:34:54] Operation timed out after 5002 milliseconds with 5391 out of 7208 bytes received
+[18-Jun-2011 02:34:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[18-Jun-2011 02:34:56] connect() timed out!
+[18-Jun-2011 02:34:56] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[18-Jun-2011 02:35:02] connect() timed out!
+[18-Jun-2011 02:35:02] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[19-Jun-2011 21:09:55] Operation timed out after 5001 milliseconds with 0 bytes received
+[19-Jun-2011 21:09:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[19-Jun-2011 22:50:12] Operation timed out after 5000 milliseconds with 0 bytes received
+[19-Jun-2011 22:50:12] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[19-Jun-2011 22:50:23] connect() timed out!
+[19-Jun-2011 22:50:23] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[20-Jul-2011 09:25:53] connect() timed out!
+[20-Jul-2011 09:25:53] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Aug-2011 17:46:13] Operation timed out after 5005 milliseconds with 0 bytes received
+[01-Aug-2011 17:46:13] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[01-Aug-2011 17:46:18] Operation timed out after 5006 milliseconds with 0 bytes received
+[01-Aug-2011 17:46:18] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[08-Aug-2011 08:04:55] connect() timed out!
+[08-Aug-2011 08:04:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[08-Aug-2011 08:05:00] Operation timed out after 5009 milliseconds with 0 bytes received
+[08-Aug-2011 08:05:00] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[09-Aug-2011 12:00:57] Operation timed out after 5002 milliseconds with 0 bytes received
+[09-Aug-2011 12:00:57] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[13-Aug-2011 20:50:31] Operation timed out after 5004 milliseconds with 0 bytes received
+[13-Aug-2011 20:50:31] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[13-Aug-2011 20:50:36] Operation timed out after 5005 milliseconds with 0 bytes received
+[13-Aug-2011 20:50:36] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[15-Aug-2011 18:50:47] Operation timed out after 5003 milliseconds with 0 bytes received
+[15-Aug-2011 18:50:47] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[19-Aug-2011 15:05:19] Operation timed out after 5003 milliseconds with 0 bytes received
+[19-Aug-2011 15:05:19] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-Aug-2011 20:16:55] Operation timed out after 5008 milliseconds with 0 bytes received
+[22-Aug-2011 20:16:55] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-Aug-2011 20:17:00] Operation timed out after 5006 milliseconds with 0 bytes received
+[22-Aug-2011 20:17:00] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[24-Aug-2011 02:13:49] Operation timed out after 5000 milliseconds with 0 bytes received
+[24-Aug-2011 02:13:49] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[24-Aug-2011 02:13:54] Operation timed out after 5000 milliseconds with 0 bytes received
+[24-Aug-2011 02:13:54] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[12-Sep-2011 13:17:24] Operation timed out after 5004 milliseconds with 0 bytes received
+[12-Sep-2011 13:17:24] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[13-Sep-2011 19:48:24] Operation timed out after 5000 milliseconds with 2510 out of 7575 bytes received
+[13-Sep-2011 19:48:24] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-Sep-2011 21:05:03] Operation timed out after 5004 milliseconds with 0 bytes received
+[22-Sep-2011 21:05:03] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[22-Sep-2011 21:05:08] Operation timed out after 5005 milliseconds with 0 bytes received
+[22-Sep-2011 21:05:08] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[03-Oct-2011 09:56:43] Operation timed out after 5005 milliseconds with 0 bytes received
+[03-Oct-2011 09:56:43] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[03-Oct-2011 09:56:48] Operation timed out after 5003 milliseconds with 0 bytes received
+[03-Oct-2011 09:56:48] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[03-Oct-2011 09:57:13] Operation timed out after 5001 milliseconds with 0 bytes received
+[03-Oct-2011 09:57:13] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[03-Oct-2011 09:57:17] Operation timed out after 5005 milliseconds with 0 bytes received
+[03-Oct-2011 09:57:17] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Oct-2011 10:25:40] Operation timed out after 5002 milliseconds with 0 bytes received
+[31-Oct-2011 10:25:40] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[31-Oct-2011 15:33:00] Operation timed out after 5003 milliseconds with 0 bytes received
+[31-Oct-2011 15:33:00] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[03-Nov-2011 03:27:21] Operation timed out after 5001 milliseconds with 0 bytes received
+[03-Nov-2011 03:27:21] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[06-Nov-2011 15:23:49] Operation timed out after 5002 milliseconds with 0 bytes received
+[06-Nov-2011 15:23:49] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[06-Nov-2011 15:23:54] Operation timed out after 5003 milliseconds with 0 bytes received
+[06-Nov-2011 15:23:54] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[09-Nov-2011 21:45:38] Operation timed out after 5004 milliseconds with 0 bytes received
+[09-Nov-2011 21:45:38] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 14:10:36] Operation timed out after 5002 milliseconds with 0 bytes received
+[10-Nov-2011 14:10:36] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:17] Operation timed out after 5001 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:17] Operation timed out after 5004 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:17] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:17] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:23] Operation timed out after 5003 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:23] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:23] Operation timed out after 5004 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:23] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:28] Operation timed out after 5005 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:28] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[10-Nov-2011 21:26:28] Operation timed out after 5004 milliseconds with 0 bytes received
+[10-Nov-2011 21:26:28] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Nov-2011 09:10:37] Operation timed out after 5004 milliseconds with 0 bytes received
+[11-Nov-2011 09:10:37] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[14-Nov-2011 16:44:58] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[13-Jan-2012 13:21:42] Operation timed out after 5004 milliseconds with 0 bytes received
+[13-Jan-2012 13:21:42] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[16-Jan-2012 10:14:14] Operation timed out after 5016 milliseconds with 0 bytes received
+[16-Jan-2012 10:14:14] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[09-Jun-2012 11:29:45] Couldn't resolve host 'www.tastespotting.com'
+[09-Jun-2012 11:29:45] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[09-Jun-2012 11:29:51] Couldn't resolve host 'www.tastespotting.com'
+[09-Jun-2012 11:29:51] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[04-Sep-2012 17:19:58] Operation timed out after 5005 milliseconds with 0 bytes received
+[04-Sep-2012 17:19:58] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[09-Nov-2012 16:42:09] connect() timed out!
+[09-Nov-2012 16:42:09] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[11-Jan-2013 06:58:43] Couldn't resolve host 'www.tastespotting.com'
+[11-Jan-2013 06:58:43] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30
+[04-Apr-2013 21:48:49] Operation timed out after 5007 milliseconds with 0 bytes received
+[04-Apr-2013 21:48:49] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/kijcpp/public_html/crunchytacos.com/resources/IndexResource.php on line 30

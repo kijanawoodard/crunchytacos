@@ -1,0 +1,80 @@
+body{
+	position: relative;
+	font: normal normal normal 1em/1.5em 'Lucida Grande', 'Lucida Sans Unicode', Arial, Verdana, sans-serif;
+	background: transparent url("../images/shady_grove.jpg") 0 0 repeat;
+	color: rgb(50,50,50);
+}
+header,nav,section,footer{
+	display: block;
+}
+
+header h1 span{
+	display: block;
+	text-indent: -9999px;
+}
+#parent{
+	background: rgb(0,0,0);
+	color: rgb(255,255,255);
+}
+#me{
+	position: fixed;
+	width: 250px;
+	height: 360px;
+	background: transparent url("http://images.easyimg.com/925f1d0d/bw-1/bc-ffffff/fgc-e2e2e2/c-ffffff/r-10/w-270/h-350/nc/me_bg.png?t=me") 0 0 no-repeat;
+	padding: 15px;
+	top: 30px;
+	right: 720px;
+	margin: 0 auto;
+	font-size: 20px;
+	font-family: Georgia, Times, "Times New Roman";
+	line-height: 25px;
+	color: rgb(50, 50, 50);
+}
+#me a.avatar{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+#me a.avatar img{
+	
+}
+#content{
+	position: relative;
+	float: right;
+	width: 700px;
+	margin-top: 10px;
+}
+
+#posts{
+	float: left;
+	width: 500px;
+	color: rgb(255,255,255);
+}
+#posts ol.posts{
+}
+#posts ol li.post{
+	margin-bottom: 25px;
+}
+#posts .body
+, #posts .footer{
+	background: rgb(0,0,0);
+}
+#posts .footer .date{
+	float: right;
+	font-size: .7em;
+	color: rgb(100,100,100);
+}
+#footer{
+	text-align: center;
+	bottom: 0px;
+	font-weight: bold;
+	height: 40px;
+	left: 0px;
+	line-height: 40px;
+	margin: 0px;
+	padding: 0px;
+	position: fixed;
+	width: 100%;
+	display: block;
+	background: rgb(255,255,255);
+}
